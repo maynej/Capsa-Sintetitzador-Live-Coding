@@ -5,7 +5,7 @@ Es tracta d'una capsa per allotjar el hardware sintetitzador per realitzar Live 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La documentació està [en PDF](https://github.com/maynej/Capsa-Sintetitzador-Live-Coding/tree/main/Doc/). 
+La documentació està [en PDF](https://github.com/maynej/Capsa-Sintetitzador-Live-Coding/tree/main/DOC/). 
 
 # Arxius per imprimir 
   
@@ -17,6 +17,7 @@ Pin Polsador |![](Imatges/Pin_Sinte.png) | [Expander](STL/Pin_Sinte.stl)
  
 Exemple d'ús del suport de la placa expansora per Micro:bit https://github.com/maynej/PerotBot
 
+## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
 ## QR
