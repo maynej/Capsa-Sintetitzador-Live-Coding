@@ -12,8 +12,8 @@ La documentació està [en PDF](https://github.com/maynej/Capsa-Sintetitzador-Li
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
 Capsa |![](Imatges/Capsa_Sinte.png) | [Capsa](STL/Capsa_Sinte.stl)
-Tapa |![](Imatges/Tapa_Sinte.png) | [Tapa](STL/Tapa_Sinte.stl)
-Pin Polsador |![](Imatges/Pin_Sinte.png) | [Pin polsador](STL/Pin_Sinte.stl)
+Tapa |![](Imatges/Tapa_Sinte.png) | [Tapa](STL/Tapa_Sinte.3mf)
+Pin Polsador |![](Imatges/Pin_Sinte.png) | [Pin polsador](STL/Pin_Sinte.3mf)
  
 Exemple d'ús del suport de la placa expansora per Micro:bit https://github.com/maynej/PerotBot
 
