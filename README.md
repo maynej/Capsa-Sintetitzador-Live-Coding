@@ -5,7 +5,7 @@ Es tracta d'una capsa per allotjar el hardware sintetitzador per realitzar Live 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La documentació està [en PDF](https://github.com/maynej/Capsa-Sintetitzador-Live-Coding/tree/main/DOC/). 
+La documentació està [en PDF](https://github.com/maynej/Capsa-Sintetitzador-Live-Coding/tree/main/DOC/). També amb llengua castellana.
 
 # Arxius per imprimir 
   
